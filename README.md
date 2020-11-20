@@ -16,10 +16,12 @@
 
 | No. | Title | Thinking |
 | --- | ---   | ---      |
-|1.  | [Probabilistic Permutation Invariant Training for Speech Separation](https://arxiv.org/pdf/1908.01768.pdf) | PIT 的改进 |
-|2.  | [Multi-talker Speech Separation with Utterance-level Permutation Invariant Training of Deep Recurrent Neural Networks](https://arxiv.org/abs/1703.06284) | utterance-level PIT |
+| 1.  | [Probabilistic Permutation Invariant Training for Speech Separation](https://arxiv.org/pdf/1908.01768.pdf) | PIT 的改进 |
+| 2.  | [Multi-talker Speech Separation with Utterance-level Permutation Invariant Training of Deep Recurrent Neural Networks](https://arxiv.org/abs/1703.06284) | utterance-level PIT |
+| 3.  | [IMPLICIT FILTER-AND-SUM NETWORK FOR MULTI-CHANNEL SPEECH SEPARATION](https://arxiv.org/abs/2011.08401) | multi-channel |
+| 4.  | [RETHINKING THE SEPARATION LAYERS IN SPEECH SEPARATION NETWORKS](https://arxiv.org/abs/2011.08400) | cascade |
 
-## TRANSFORM
+## TRANSFORMj
 
 | No. | Title | Thinking |
 | --- | ---   | ---      |
