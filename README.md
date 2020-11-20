@@ -21,7 +21,7 @@
 | 3.  | [IMPLICIT FILTER-AND-SUM NETWORK FOR MULTI-CHANNEL SPEECH SEPARATION](https://arxiv.org/abs/2011.08401) | multi-channel |
 | 4.  | [RETHINKING THE SEPARATION LAYERS IN SPEECH SEPARATION NETWORKS](https://arxiv.org/abs/2011.08400) | cascade |
 
-## TRANSFORMj
+## TRANSFORM
 
 | No. | Title | Thinking |
 | --- | ---   | ---      |
