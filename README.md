@@ -10,7 +10,7 @@
 
 | No. | Title | Thinking |
 | --- | ---   | ---      |
-| 1.  | [Learn2Sing: Target Speaker Singing Voice Synthesis by learning from a Singing Teacher](https://arxiv.org/abs/2011.08467) | tts -> svs，f0和duration建模 |
+| 1.  | [Learn2Sing: Target Speaker Singing Voice Synthesis by learning from a Singing Teacher](https://arxiv.org/abs/2011.08467) | tts -> svs，f0和duration建模, 用 GMM 对上述两者建模比 MSE 要好？ |
 
 ## SEPARATION
 
