@@ -22,6 +22,7 @@
 | 4.  | [RETHINKING THE SEPARATION LAYERS IN SPEECH SEPARATION NETWORKS](https://arxiv.org/abs/2011.08400) | cascade, 无 teacher force，提到但未实验 speaker number 可以是  |
 | 5.  | [Listening and Grouping: An Online Autoregressive Approach for Monaural Speech Separation](https://kar.kent.ac.uk/71467/1/version10_lzx_ivm.pdf) | 可能与cascade 相关 |
 | 6.  | [Divide and Conquer: A Deep CASA Approach to Talker-independent Monaural Speaker Separation](https://arxiv.org/abs/1904.11148) | 可能与cascade 相关 |
+| 7.  | [A comprehensive study of speech separation: spectrogram vs waveform separation](https://arxiv.org/pdf/1905.07497.pdf) | BSS 综述 |
 
 ## TRANSFORM
 
