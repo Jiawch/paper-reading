@@ -10,7 +10,7 @@
 
 | No. | Title | Thinking |
 | --- | ---   | ---      |
-| 1.  | [Learn2Sing: Target Speaker Singing Voice Synthesis by learning from a Singing Teacher](https://arxiv.org/abs/2011.08467) | tts -> svs |
+| 1.  | [Learn2Sing: Target Speaker Singing Voice Synthesis by learning from a Singing Teacher](https://arxiv.org/abs/2011.08467) | tts -> svs，f0和duration建模 |
 
 ## SEPARATION
 
