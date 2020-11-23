@@ -23,6 +23,7 @@
 | 5.  | [Listening and Grouping: An Online Autoregressive Approach for Monaural Speech Separation](https://kar.kent.ac.uk/71467/1/version10_lzx_ivm.pdf) | 可能与cascade 相关 |
 | 6.  | [Divide and Conquer: A Deep CASA Approach to Talker-independent Monaural Speaker Separation](https://arxiv.org/abs/1904.11148) | 可能与cascade 相关 |
 | 7.  | [A comprehensive study of speech separation: spectrogram vs waveform separation](https://arxiv.org/pdf/1905.07497.pdf) | BSS 综述 |
+| 8.  | [Research Advances and Perspectives on the Cocktail Party Problem and Related Auditory Models](http://html.rhhz.net/ZDHXBZWB/html/2019-2-234.htm) | 鸡尾酒会综述 | 
 
 ## TRANSFORM
 
