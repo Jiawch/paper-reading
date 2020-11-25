@@ -26,7 +26,7 @@
 | 8.  | [Research Advances and Perspectives on the Cocktail Party Problem and Related Auditory Models](http://html.rhhz.net/ZDHXBZWB/html/2019-2-234.htm) | 鸡尾酒会综述 | 
 | 9.  | [Recursive speech separation for unknown number of speakers](https://arxiv.org/pdf/1904.03065.pdf) | unknown speaker number |
 | 10. | [ONE SHOT LEARNING FOR SPEECH SEPARATION](https://arxiv.org/pdf/2011.10233.pdf) | 这个是不是说明 meta-learning 放在source domain和taget domain相差不大的时候，比style transform好 |
-| 11. | [Serialized Output Training for End-to-End Overlapped Speech Recognition](https://arxiv.org/pdf/2003.12687.pdf)、[STREAMING MULTI-SPEAKER ASR WITH RNN-T](https://arxiv.org/pdf/2011.11671.pdf) | 有意思，ASR 里 SOT(first-in, first-out) 比 PIT 好 |
+| 11. | [Serialized Output Training for End-to-End Overlapped Speech Recognition](https://arxiv.org/pdf/2003.12687.pdf)、[STREAMING MULTI-SPEAKER ASR WITH RNN-T](https://arxiv.org/pdf/2011.11671.pdf) | 有意思，ASR 里 SOT(first-in, first-out) 比 PIT 好，2020的方法，还没有人做 |
 
 
 ## TRANSFORM
