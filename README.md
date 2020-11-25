@@ -26,7 +26,8 @@
 | 8.  | [Research Advances and Perspectives on the Cocktail Party Problem and Related Auditory Models](http://html.rhhz.net/ZDHXBZWB/html/2019-2-234.htm) | 鸡尾酒会综述 | 
 | 9.  | [Recursive speech separation for unknown number of speakers](https://arxiv.org/pdf/1904.03065.pdf) | unknown speaker number |
 | 10. | [ONE SHOT LEARNING FOR SPEECH SEPARATION](https://arxiv.org/pdf/2011.10233.pdf) | meta-learning |
-| 11. | [STREAMING MULTI-SPEAKER ASR WITH RNN-T](https://arxiv.org/pdf/2011.11671.pdf) | |
+| 11. | [STREAMING MULTI-SPEAKER ASR WITH RNN-T](https://arxiv.org/pdf/2011.11671.pdf) |  |
+| 12. | [Serialized Output Training for End-to-End Overlapped Speech Recognition](https://arxiv.org/pdf/2003.12687.pdf)、[STREAMING MULTI-SPEAKER ASR WITH RNN-T](https://arxiv.org/pdf/2011.11671.pdf) | 有意思，ASR 里 SOT 比 PIT 好 |
 
 
 ## TRANSFORM
