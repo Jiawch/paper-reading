@@ -5,6 +5,7 @@
 | No. | Title | Thinking |
 | --- | ---   | ---      |
 | 1.  | [s-Transformer: Segment-Transformer for Robust Neural Speech Synthesis](https://arxiv.org/abs/2011.08480) | 应该是 long-form | 
+| 2.  | [TFGAN: Time and Frequency Domain Based Generative Adversarial Network for High-fidelity Speech Synthesis](https://arxiv.org/abs/2011.12206) | 这个很神奇，是哪个部件work呢 |
 
 ## SINGVOIVE SYNTHESIS SYSTEM
 
