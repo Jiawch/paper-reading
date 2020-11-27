@@ -5,7 +5,7 @@
 | No. | Title | Thinking |
 | --- | ---   | ---      |
 | 1.  | [s-Transformer: Segment-Transformer for Robust Neural Speech Synthesis](https://arxiv.org/abs/2011.08480) | 应该是 long-form | 
-| 2.  | [TFGAN: Time and Frequency Domain Based Generative Adversarial Network for High-fidelity Speech Synthesis](https://arxiv.org/abs/2011.12206) | 这个很神奇，是哪个部件work呢，baseline 的setting is unfair |
+| 2.  | [TFGAN: Time and Frequency Domain Based Generative Adversarial Network for High-fidelity Speech Synthesis](https://arxiv.org/abs/2011.12206) | 这个很神奇，是哪个部件work呢，1) baseline 的setting is unfair, 2) for vibrations issue, use freq-D, 但除了mos微小的提升外，没有其他说明 vibrations 是freq-D解决的 |
 
 ## SINGVOIVE SYNTHESIS SYSTEM
 
