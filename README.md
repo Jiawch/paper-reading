@@ -8,6 +8,7 @@
 | 2.  | [TFGAN: Time and Frequency Domain Based Generative Adversarial Network for High-fidelity Speech Synthesis](https://arxiv.org/abs/2011.12206) | 这个很神奇，是哪个部件work呢，1) baseline 的setting is unfair, 2) for vibrations issue, use freq-D, 但除了mos微小的提升外，没有其他说明 vibrations 是freq-D解决的 |
 | 3.  | [Parallel waveform synthesis based on generative adversarial networks with voicing-aware conditional discriminators](https://arxiv.org/abs/2010.14151) | cgan + lnner product, the input auxiliary features were up-sampled by nearest neighbor interpolation followed by 1-D convolutions so that the time resolution of the auxiliary features matched the sampling rate of the speech waveforms |
 | 4.  | [END-TO-END ADVERSARIAL TEXT-TO-SPEECH](https://openreview.net/pdf?id=rsf1z-JSj87) | 1)DTW, 2)GAN-TTS, 3)projection embedding D,|
+| 5.  | [High Fidelity Speech Synthesis with Adversarial Networks](https://arxiv.org/abs/1909.11646) | GAN-TTS |
 
 ## SINGVOIVE SYNTHESIS SYSTEM
 
