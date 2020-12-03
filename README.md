@@ -50,4 +50,4 @@
 
 | No. | Title | Thinking |
 | --- | ---   | ---      |
-| 1.  | Wavelet Integrated CNNs for Noise-Robust Image Classification(https://arxiv.org/pdf/2005.03337.pdf) |  |
+| 1.  | [Wavelet Integrated CNNs for Noise-Robust Image Classification](https://arxiv.org/pdf/2005.03337.pdf) |  |
