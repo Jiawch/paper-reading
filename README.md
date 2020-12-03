@@ -15,6 +15,8 @@
 | No. | Title | Thinking |
 | --- | ---   | ---      |
 | 1.  | [Learn2Sing: Target Speaker Singing Voice Synthesis by learning from a Singing Teacher](https://arxiv.org/abs/2011.08467) | tts -> svs，f0和duration建模, 用 GMM 对上述两者建模比 MSE 要好？就像 Wavenet 可以用 GMM 拟合 wave, domain-adaptation 对长音发挥作用 |
+| 2.  | [Speech-to-Singing Conversion in an Encoder-Decoder Framework](https://arxiv.org/abs/2002.06595) |  |
+| 3.  | [Unsupervised Singing Voice Conversion](https://arxiv.org/abs/1904.06590) |  | 
 
 ## SEPARATION
 
