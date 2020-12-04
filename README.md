@@ -52,6 +52,12 @@
 | --- | ---   | ---      |
 
 
+## Others are relate to speech
+| No. | Title | Thinking |
+| --- | ---   | ---      |
+| 1.  | [VOCAL MELODY EXTRACTION USING PATCH-BASED CNN](https://arxiv.org/pdf/1804.09202.pdf) | melody/F0 extractor |
+
+
 # Computer Vision
 
 | No. | Title | Thinking |
