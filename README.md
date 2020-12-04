@@ -17,7 +17,7 @@
 | 1.  | [Learn2Sing: Target Speaker Singing Voice Synthesis by learning from a Singing Teacher](https://arxiv.org/abs/2011.08467) | tts -> svs，f0和duration建模, 用 GMM 对上述两者建模比 MSE 要好？就像 Wavenet 可以用 GMM 拟合 wave, domain-adaptation 对长音发挥作用 |
 | 2.  | [Speech-to-Singing Conversion in an Encoder-Decoder Framework](https://arxiv.org/abs/2002.06595) |  |
 | 3.  | [Unsupervised Singing Voice Conversion](https://arxiv.org/abs/1904.06590) |  | 
-| 4.  | [WGANSing: A Multi-Voice Singing Voice Synthesizer Based on the Wasserstein-GAN](https://arxiv.org/abs/1903.10729) | [code](https://github.com/pc2752/Multi_Voice_Sing_Speak_Sing), 看WGAN怎么实现的，1）输入和输出一样长，那一开始输入是怎么铺开到那么长的 |
+| 4.  | [WGANSing: A Multi-Voice Singing Voice Synthesizer Based on the Wasserstein-GAN](https://arxiv.org/abs/1903.10729) | [code](https://github.com/pc2752/Multi_Voice_Sing_Speak_Sing), 看WGAN怎么实现的，1）输入和输出一样长，那一开始输入是怎么铺开到那么长的，用到 frame- wise phoneme annotations，和NPSS一样，原来WGANSING把duration，f0当成已知条件，先铺开 |
 
 ## SEPARATION
 
