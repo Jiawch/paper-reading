@@ -56,6 +56,7 @@
 | No. | Title | Thinking |
 | --- | ---   | ---      |
 | 1.  | [VOCAL MELODY EXTRACTION USING PATCH-BASED CNN](https://arxiv.org/pdf/1804.09202.pdf) | melody/F0 extractor |
+| 2.  | [FastPitch: Parallel Text-to-speech with Pitch Prediction](https://arxiv.org/abs/2006.06873) | Pitch modeling |
 
 
 # Computer Vision
