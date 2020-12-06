@@ -20,7 +20,7 @@
 | 4.  | [WGANSing: A Multi-Voice Singing Voice Synthesizer Based on the Wasserstein-GAN](https://arxiv.org/abs/1903.10729) | [code](https://github.com/pc2752/Multi_Voice_Sing_Speak_Sing), 看WGAN怎么实现的，1）输入和输出一样长，那一开始输入是怎么铺开到那么长的，用到 frame- wise phoneme annotations，和NPSS一样，原来WGANSING把duration，f0当成已知条件，先铺开 |
 | 5.  | [A Combination of Model-based and Feature-based Strategy for Speech-to-Singing Alignment](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1942.pdf) | alignment approaches |
 | 6.  | [A Dual Alignment Scheme for Improved Speech-to-Singing Voice Conversion](http://www.apsipa.org/proceedings/2017/CONTENTS/papers2017/15DecFriday/Poster%205/FA-P5.7.pdf) | alignment approache |
-| 7.  | [A Universal Music Translation Network](https://arxiv.org/abs/1805.07848) | the pitch of the input audio clip was changed locally |
+| 7.  | [A Universal Music Translation Network](https://arxiv.org/abs/1805.07848) | [code](https://github.com/facebookresearch/music-translation) the pitch of the input audio clip was changed locally |
 
 
 ## SEPARATION
