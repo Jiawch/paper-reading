@@ -21,7 +21,7 @@
 | 5.  | [A Combination of Model-based and Feature-based Strategy for Speech-to-Singing Alignment](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1942.pdf) | alignment approaches |
 | 6.  | [A Dual Alignment Scheme for Improved Speech-to-Singing Voice Conversion](http://www.apsipa.org/proceedings/2017/CONTENTS/papers2017/15DecFriday/Poster%205/FA-P5.7.pdf) | alignment approache |
 | 7.  | [A Universal Music Translation Network](https://arxiv.org/abs/1805.07848) | [code](https://github.com/facebookresearch/music-translation) the pitch of the input audio clip was changed locally |
-
+| 8.  | [Speech-to-singing synthesis: Converting speaking voices to singing voices by controlling acoustic features unique to singing voices](https://staff.aist.go.jp/m.goto/PAPER/WASPAA2007saitou.pdf) | Model-based STS, non-nn model |
 
 ## SEPARATION
 
