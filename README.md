@@ -23,6 +23,7 @@
 | 7.  | [A Universal Music Translation Network](https://arxiv.org/abs/1805.07848) | [code](https://github.com/facebookresearch/music-translation) the pitch of the input audio clip was changed locally |
 | 8.  | [Speech-to-singing synthesis: Converting speaking voices to singing voices by controlling acoustic features unique to singing voices](https://staff.aist.go.jp/m.goto/PAPER/WASPAA2007saitou.pdf) | Model-based STS, non-nn model |
 | 9.  | [Learning Singing From Speech](https://arxiv.org/pdf/1912.10128.pdf) | male，female 的转化，avg f0 |
+| 10. | [I2R Speech2Singing Perfects Everyone’s Singing](https://www.isca-speech.org/archive/archive_papers/interspeech_2014/i14_2148.pdf) | Rhythm correction by DTW |
 
 ## SEPARATION
 
