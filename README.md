@@ -59,8 +59,7 @@
 | No. | Title | Thinking |
 | --- | ---   | ---      |
 | 1.  | [VOCAL MELODY EXTRACTION USING PATCH-BASED CNN](https://arxiv.org/pdf/1804.09202.pdf) | melody/F0 extractor |
-| 2.  | [FastPitch: Parallel Text-to-speech with Pitch Prediction](https://arxiv.org/abs/2006.06873) | Pitch modeling, 与fs2不同，它是在铺开前预测 average pitch of
-every character，我好奇这个 avg pitch 的 target 是怎么得来的 |
+| 2.  | [FastPitch: Parallel Text-to-speech with Pitch Prediction](https://arxiv.org/abs/2006.06873) | Pitch modeling, 与fs2不同，它是在铺开前预测 average pitch of every character，我好奇这个 avg pitch 的 target 是怎么得来的 |
 
 
 # Computer Vision
