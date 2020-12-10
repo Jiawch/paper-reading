@@ -25,6 +25,7 @@
 | 9.  | [Learning Singing From Speech](https://arxiv.org/pdf/1912.10128.pdf) | male，female 的转化，avg f0 |
 | 10. | [I2R Speech2Singing Perfects Everyone’s Singing](https://www.isca-speech.org/archive/archive_papers/interspeech_2014/i14_2148.pdf) | Rhythm correction by DTW |
 | 11. | [DATA EFFICIENT VOICE CLONING FOR NEURAL SINGING SYNTHESIS](https://arxiv.org/pdf/1902.07292.pdf) | learned speaker embedding，对 new speakers 策略；finetune 策略 |
+| 12. | [HMM-based singing voice synthesis system using pitch-shifted pseudo training data](https://www.isca-speech.org/archive/archive_papers/interspeech_2010/i10_0845.pdf) | singing alignment |
 
 ## SEPARATION
 
