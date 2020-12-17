@@ -60,6 +60,7 @@
 
 
 ## Others are relate to speech
+
 | No. | Title | Thinking |
 | --- | ---   | ---      |
 | 1.  | [VOCAL MELODY EXTRACTION USING PATCH-BASED CNN](https://arxiv.org/pdf/1804.09202.pdf) | melody/F0 extractor |
@@ -71,3 +72,10 @@
 | No. | Title | Thinking |
 | --- | ---   | ---      |
 | 1.  | [Wavelet Integrated CNNs for Noise-Robust Image Classification](https://arxiv.org/pdf/2005.03337.pdf) |  |
+
+
+# Flow
+| No. | Title | Thinking |
+| --- | ---   | ---      |
+| 1.  | | |
+
