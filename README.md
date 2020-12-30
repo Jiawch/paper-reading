@@ -52,7 +52,7 @@
 - information from target speaker 
 
 wavesplit: not solely optimized for identification but also for the reconstruction of separated speech
-wavesplit: loss 关联到 replusive loss
+wavesplit: loss 关联到 replusive loss, 简化kmeans，使其可也end2end也很妙
 
 | No. | Title | Thinking |
 | --- | ---   | ---      |
