@@ -53,6 +53,7 @@
 
 wavesplit: not solely optimized for identification but also for the reconstruction of separated speech
 wavesplit: loss 关联到 replusive loss, 简化kmeans，使其可也end2end也很妙；和vq-vae很像，有什么关联
+LPC（线性预测编码）: 与文本有关
 
 | No. | Title | Thinking |
 | --- | ---   | ---      |
