@@ -47,6 +47,14 @@
 | 12. | [Applying Spectral Normalisation and Efficient Envelope Estimation and Statistical Transformation for the Voice Conversion Challenge 2016](http://www.cstr.ed.ac.uk/downloads/publications/2016/0305.PDF) | 一个比线性回归更好的 envelope 模型？ |
 
 
+## leverages additional speaker information to help spearation
+
+- information from target speaker 
+
+| No. | Title | Thinking |
+| --- | ---   | ---      |
+
+
 ## TRANSFORM
 
 | No. | Title | Thinking |
