@@ -92,3 +92,7 @@ LPC（线性预测编码）: 与文本有关
 | --- | ---   | ---      |
 | 1.  | | |
 
+
+# Code
+[HiFiSinger](https://github.com/CODEJIN?tab=overview&from=2020-11-01&to=2020-11-30)
+
