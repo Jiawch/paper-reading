@@ -4,9 +4,9 @@
 
 | No. | Title | Thinking |
 | --- | ---   | ---      |
-| 1.  | [s-Transformer: Segment-Transformer for Robust Neural Speech Synthesis](https://arxiv.org/abs/2011.08480) | 应该是 long-form | 
-| 2.  | [TFGAN: Time and Frequency Domain Based Generative Adversarial Network for High-fidelity Speech Synthesis](https://arxiv.org/abs/2011.12206) | 这个很神奇，是哪个部件work呢，1) baseline 的setting is unfair, 2) for vibrations issue, use freq-D, 但除了mos微小的提升外，没有其他说明 vibrations 是freq-D解决的 |
-| 3.  | [Parallel waveform synthesis based on generative adversarial networks with voicing-aware conditional discriminators](https://arxiv.org/abs/2010.14151) | cgan + lnner product, the input auxiliary features were up-sampled by nearest neighbor interpolation followed by 1-D convolutions so that the time resolution of the auxiliary features matched the sampling rate of the speech waveforms |
+| 1.  | [s-Transformer: Segment-Transformer for Robust Neural Speech Synthesis](https://arxiv.org/abs/2011.08480) | long-form 相关 | 
+| 2.  | [TFGAN: Time and Frequency Domain Based Generative Adversarial Network for High-fidelity Speech Synthesis](https://arxiv.org/abs/2011.12206) | 这个不大认同，不知是哪个部件 work，1) baseline 的setting is unfair, 2) for vibrations issue, 作者使用了 freq-D, 但除了mos微小的提升外，没有其他说明 vibrations 是 freq-D 解决的 3) 根据以前的经验，直接在 vocoder 的 频谱做判别，并不会带来惊艳的效果，不直接 |
+| 3.  | [Parallel waveform synthesis based on generative adversarial networks with voicing-aware conditional discriminators](https://arxiv.org/abs/2010.14151) | 对 pwg D 的改进，1) 大感受野，covers long-term variations of the harmonic component & penalizes any unwanted aperiodic noise components, 2) 小卷积核，focus on the detailed high-frequency, because the charac- teristics of the noise component vary rapidly. 3) 在我看来真正 work 的是 condition 和 大的卷积核 |
 | 4.  | [END-TO-END ADVERSARIAL TEXT-TO-SPEECH](https://openreview.net/pdf?id=rsf1z-JSj87) | 1)DTW, 2)GAN-TTS, 3)projection embedding D,|
 | 5.  | [High Fidelity Speech Synthesis with Adversarial Networks](https://arxiv.org/abs/1909.11646) | GAN-TTS |
 | 6.  | [A Spectral Energy Distance for Parallel Speech Synthesis](https://arxiv.org/pdf/2008.01160.pdf) | 他加不同noise，我们可不可以加不同phase |
@@ -15,13 +15,13 @@
 
 | No. | Title | Thinking |
 | --- | ---   | ---      |
-| 1.  | [Learn2Sing: Target Speaker Singing Voice Synthesis by learning from a Singing Teacher](https://arxiv.org/abs/2011.08467) | tts -> svs，f0和duration建模, 用 GMM 对上述两者建模比 MSE 要好？就像 Wavenet 可以用 GMM 拟合 wave, domain-adaptation 对长音发挥作用 |
+| 1.  | [Learn2Sing: Target Speaker Singing Voice Synthesis by learning from a Singing Teacher](https://arxiv.org/abs/2011.08467) | tts -> svs，1）f0 和 duration 建模, 2）用 GMM 对上述两者建模比 MSE 要好？就像 Wavenet 可以用 GMM 拟合 wave, 3）domain-adaptation 对长音发挥作用 |
 | 2.  | [Speech-to-Singing Conversion in an Encoder-Decoder Framework](https://arxiv.org/abs/2002.06595) | [code](https://github.com/jayneelparekh/sp2si-code)preserves some of its characteristics (e.g., speaker identity, linguistic content), while modifying certain others (melody, phoneme durations)，1）multispeaker用什么vocoder，Griffin-Lim 2）怎么 align speech and sing？直接通过变速拉伸，不管有没有align上， 3）Silent frame removal 模块 |
 | 3.  | [Unsupervised Singing Voice Conversion](https://arxiv.org/abs/1904.06590) |  | 
-| 4.  | [WGANSing: A Multi-Voice Singing Voice Synthesizer Based on the Wasserstein-GAN](https://arxiv.org/abs/1903.10729) | [code](https://github.com/pc2752/Multi_Voice_Sing_Speak_Sing), 看WGAN怎么实现的，1）输入和输出一样长，那一开始输入是怎么铺开到那么长的，用到 frame- wise phoneme annotations，和NPSS一样，原来WGANSING把duration，f0当成已知条件，先铺开 |
+| 4.  | [WGANSing: A Multi-Voice Singing Voice Synthesizer Based on the Wasserstein-GAN](https://arxiv.org/abs/1903.10729) | [code](https://github.com/pc2752/Multi_Voice_Sing_Speak_Sing), 1）输入和输出一样长，那一开始输入是怎么铺开到那么长的，用到 frame- wise phoneme annotations，和NPSS一样，原来WGANSING把duration，f0当成已知条件，先铺开 |
 | 5.  | [A Combination of Model-based and Feature-based Strategy for Speech-to-Singing Alignment](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1942.pdf) | alignment approaches |
 | 6.  | [A Dual Alignment Scheme for Improved Speech-to-Singing Voice Conversion](http://www.apsipa.org/proceedings/2017/CONTENTS/papers2017/15DecFriday/Poster%205/FA-P5.7.pdf) | alignment approache |
-| 7.  | [A Universal Music Translation Network](https://arxiv.org/abs/1805.07848) | [code](https://github.com/facebookresearch/music-translation) the pitch of the input audio clip was changed locally |
+| 7.  | [A Universal Music Translation Network](https://arxiv.org/abs/1805.07848) | [code](https://github.com/facebookresearch/music-translation) 1）the pitch of the input audio clip was changed locally |
 | 8.  | [Speech-to-singing synthesis: Converting speaking voices to singing voices by controlling acoustic features unique to singing voices](https://staff.aist.go.jp/m.goto/PAPER/WASPAA2007saitou.pdf) | Model-based STS, non-nn model |
 | 9.  | [Learning Singing From Speech](https://arxiv.org/pdf/1912.10128.pdf) | male，female 的转化，avg f0 |
 | 10. | [I2R Speech2Singing Perfects Everyone’s Singing](https://www.isca-speech.org/archive/archive_papers/interspeech_2014/i14_2148.pdf) | Rhythm correction by DTW |
