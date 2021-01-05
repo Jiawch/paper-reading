@@ -10,6 +10,9 @@
 | 4.  | [END-TO-END ADVERSARIAL TEXT-TO-SPEECH](https://openreview.net/pdf?id=rsf1z-JSj87) | 1)DTW, 2)GAN-TTS, 3)projection embedding D,|
 | 5.  | [High Fidelity Speech Synthesis with Adversarial Networks](https://arxiv.org/abs/1909.11646) | GAN-TTS |
 | 6.  | [A Spectral Energy Distance for Parallel Speech Synthesis](https://arxiv.org/pdf/2008.01160.pdf) | 他加不同noise，我们可不可以加不同phase |
+| 7.  | [A Spectral Energy Distance for Parallel Speech Synthesis](https://arxiv.org/pdf/2008.01160.pdf) | STFT loss额外加了一个 repulsive term 解决电音 |
+| 8.  | [DiffWave: A Versatile Diffusion Model for Audio Synthesis](https://openreview.net/forum?id=a-xFK8Ymz5J) | 新的生成模型 |
+| 9.  | [EfficientTTS: An Efficient and High-Quality Text-to-Speech Architecture](https://arxiv.org/pdf/2012.03500.pdf) | 这个paper 也挺有意思   做alignment的, 可能可以丰富EATS上次那个DTW的做法   |
 
 ## SINGVOIVE SYNTHESIS SYSTEM
 
@@ -64,6 +67,7 @@ LPC（线性预测编码）: 与文本有关
 | No. | Title | Thinking |
 | --- | ---   | ---      |
 | 1.  | [Multiple F0 Estimation in Vocal Ensembles using Convolutional Neural Networks](https://arxiv.org/abs/2009.04172) | F0建模，CQT变换 |
+| 2.  | [UPSAMPLING ARTIFACTS IN NEURAL AUDIO SYNTHESIS](https://arxiv.org/pdf/2010.14356.pdf) |  这篇专门分析上采样的问题 | 
 
 
 ## LONG-FORM
@@ -91,6 +95,12 @@ LPC（线性预测编码）: 与文本有关
 | No. | Title | Thinking |
 | --- | ---   | ---      |
 | 1.  | | |
+
+
+# Phase
+| No. | Title | Thinking |
+| --- | ---   | ---      |
+| 1.  | [GANSYNTH: ADVERSARIAL NEURAL AUDIO SYNTHESIS](https://arxiv.org/pdf/1902.08710.pdf), [LEARNING AUDIO REPRESENTATIONS VIA PHASE PREDICTION ](https://arxiv.org/pdf/1910.11910.pdf) | [Demo](https://google.github.io/phase-prediction/)这两paper直接预测了相位 |
 
 
 # Code
