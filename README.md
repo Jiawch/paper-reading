@@ -48,6 +48,7 @@
 | 10. | [ONE SHOT LEARNING FOR SPEECH SEPARATION](https://arxiv.org/pdf/2011.10233.pdf) | 这个是不是说明 meta-learning 放在source domain和taget domain相差不大的时候，比style transform好 |
 | 11. | [Serialized Output Training for End-to-End Overlapped Speech Recognition](https://arxiv.org/pdf/2003.12687.pdf)、[STREAMING MULTI-SPEAKER ASR WITH RNN-T](https://arxiv.org/pdf/2011.11671.pdf) | 有意思，ASR 里 SOT(first-in, first-out) 比 PIT 好，2020的方法，还没有人做 |
 | 12. | [Applying Spectral Normalisation and Efficient Envelope Estimation and Statistical Transformation for the Voice Conversion Challenge 2016](http://www.cstr.ed.ac.uk/downloads/publications/2016/0305.PDF) | 一个比线性回归更好的 envelope 模型？ |
+| 13. | [Mixup-breakdown: a consistency training method for improving generalization of speech separation models](https://arxiv.org/pdf/1910.13253.pdf) | mixup 用在separation 会怎么样 |
 
 
 ## leverages additional speaker information to help spearation
