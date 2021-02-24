@@ -103,6 +103,10 @@ LPC（线性预测编码）: 与文本有关
 | --- | ---   | ---      |
 | 1.  | [GANSYNTH: ADVERSARIAL NEURAL AUDIO SYNTHESIS](https://arxiv.org/pdf/1902.08710.pdf), [LEARNING AUDIO REPRESENTATIONS VIA PHASE PREDICTION ](https://arxiv.org/pdf/1910.11910.pdf) | [Demo](https://google.github.io/phase-prediction/)这两paper直接预测了相位 |
 
+# Transducer
+| No. | Title | Thinking |
+| --- | ---   | ---      |
+| 1.  | [Sequence Transduction with Recurrent Neural Networks](https://arxiv.org/pdf/1211.3711.pdf) | rnnt |
 
 # Code
 [HiFiSinger](https://github.com/CODEJIN?tab=overview&from=2020-11-01&to=2020-11-30)
