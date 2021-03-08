@@ -102,6 +102,7 @@ LPC（线性预测编码）: 与文本有关
 | No. | Title | Thinking |
 | --- | ---   | ---      |
 | 1.  | [GANSYNTH: ADVERSARIAL NEURAL AUDIO SYNTHESIS](https://arxiv.org/pdf/1902.08710.pdf), [LEARNING AUDIO REPRESENTATIONS VIA PHASE PREDICTION ](https://arxiv.org/pdf/1910.11910.pdf) | [Demo](https://google.github.io/phase-prediction/)这两paper直接预测了相位 |
+| 2.  | [Phase reconstruction based on recurrent phase unwrapping with deep neural networks](https://arxiv.org/pdf/2002.05832.pdf) | instantaneous frequency（IF） 和 group delay（GD）估计phase |
 
 # Transducer
 | No. | Title | Thinking |
