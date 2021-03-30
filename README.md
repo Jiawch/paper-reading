@@ -107,7 +107,8 @@ LPC（线性预测编码）: 与文本有关
 # Transducer
 | No. | Title | Thinking |
 | --- | ---   | ---      |
-| 1.  | [Sequence Transduction with Recurrent Neural Networks](https://arxiv.org/pdf/1211.3711.pdf) | rnnt |
+| 1.  | [Sequence Transduction with Recurrent Neural Networks](https://arxiv.org/pdf/1211.3711.pdf), [FastEmit: Low-latency Streaming ASR with Sequence-level Emission Regularization](https://arxiv.org/pdf/2010.11148.pdf) | rnnt |
+
 
 # Speech Feature
 | No. | Title | Thinking |
