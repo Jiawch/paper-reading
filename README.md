@@ -109,6 +109,11 @@ LPC（线性预测编码）: 与文本有关
 | --- | ---   | ---      |
 | 1.  | [Sequence Transduction with Recurrent Neural Networks](https://arxiv.org/pdf/1211.3711.pdf) | rnnt |
 
+# Speech Feature
+| No. | Title | Thinking |
+| --- | ---   | ---      |
+| 1.  | [Comparison of Time-Frequency Representations for Environmental Sound Classification using Convolutional Neural Networks](https://arxiv.org/pdf/1706.07156.pdf) | |
+
 # Code
 [HiFiSinger](https://github.com/CODEJIN?tab=overview&from=2020-11-01&to=2020-11-30)
 
