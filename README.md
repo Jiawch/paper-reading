@@ -108,6 +108,7 @@ LPC（线性预测编码）: 与文本有关
 | No. | Title | Thinking |
 | --- | ---   | ---      |
 | 1.  | [Sequence Transduction with Recurrent Neural Networks](https://arxiv.org/pdf/1211.3711.pdf), [FastEmit: Low-latency Streaming ASR with Sequence-level Emission Regularization](https://arxiv.org/pdf/2010.11148.pdf) | rnnt |
+| 2.  | [Initial investigation of an encoder-decoder end-to-end TTS framework using marginalization of monotonic hard latent alignments](http://128.84.4.27/pdf/1908.11535) | transducer tts |
 
 
 # Speech Feature
