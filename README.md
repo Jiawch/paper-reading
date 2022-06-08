@@ -124,3 +124,5 @@ LPC（线性预测编码）: 与文本有关
 # Code
 [HiFiSinger](https://github.com/CODEJIN?tab=overview&from=2020-11-01&to=2020-11-30)
 
+# DDPM
+[Blog](https://blog.csdn.net/Little_White_9/article/details/124435560?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-124435560-blog-118724666.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-124435560-blog-118724666.pc_relevant_antiscanv2&utm_relevant_index=5)
