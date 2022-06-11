@@ -126,4 +126,5 @@ LPC（线性预测编码）: 与文本有关
 
 # DDPM
 [Blog](https://blog.csdn.net/Little_White_9/article/details/124435560?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-124435560-blog-118724666.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-124435560-blog-118724666.pc_relevant_antiscanv2&utm_relevant_index=5)
+
 [Diffusion Models与深度学习](https://blog.csdn.net/qq_41895747/category_11504878.html)
